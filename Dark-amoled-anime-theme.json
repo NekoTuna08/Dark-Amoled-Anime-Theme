@@ -237,7 +237,7 @@
   "background": {
     "url": "https://raw.githubusercontent.com/NekoTuna08/Dark-Amoled-Anime-Theme/refs/heads/main/Wallpaper.jpg",
     "blur": 0.5,
-    "alpha": 0.10,
+    "alpha": 0.50,
     "size": "cover",
     "position": "center"
   },
