@@ -1,6 +1,6 @@
 {
-  "name": " Dark AMOLED anime theme",
-  "description": "Custom AMOLED anime theme",
+  "name": " Dark Amoled Anime Theme",
+  "description": "Custom amoled anime theme",
   "authors": [
     {
       "name": "NekoTuna",
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://raw.githubusercontent.com/wiwiichan/AMOLED-anime-theme/refs/heads/main/rem.jpg",
+    "url": "https://raw.githubusercontent.com/NekoTuna08/Dark-Amoled-Anime-Theme/refs/heads/main/Wallpaper.jpg",
     "blur": 0.5,
     "alpha": 0.10,
     "size": "cover",
