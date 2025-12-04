@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Terraria",
+    "previewText": "Terraria custom font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-BoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-MediumItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "NotoSans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf",
+        "ggmono-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Terraria.ttf"
+    }
+}
