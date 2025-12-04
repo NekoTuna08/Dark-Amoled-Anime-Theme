@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Kremlin",
+    "previewText": "Kremlin custom font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-BoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-MediumItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "NotoSans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf",
+        "ggmono-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Kremlin.ttf"
+    }
+}

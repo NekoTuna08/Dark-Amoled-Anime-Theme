@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Minecraft Enchantment",
+    "previewText": "Minecraft enchantment custom font",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-BoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-MediumItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-Bold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-ExtraBold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-Medium": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-NormalItalic": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "NotoSans-Semibold": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf",
+        "ggmono-Normal": "https://github.com/NekoTuna08/Dark-Amoled-Anime-Theme/raw/refs/heads/main/Fonts/ttf/Minecraft-enchantment.ttf"
+    }
+}
